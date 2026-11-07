@@ -1,0 +1,7 @@
+id = "omtheme"
+name = "Om Theme"
+version = "1.0.17"
+schema_version = 1
+authors = ["Otávio Miranda <luizomf@gmail.com>"]
+description = "A darker Dracula theme for Zed, with and without italics."
+repository = "https://github.com/luizomf/omtheme"
